@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Slider-using-React-NatutoPedia-/static/css/main.2c7c239a.css",
+    "main.js": "/Slider-using-React-NatutoPedia-/static/js/main.cb1d023e.js",
+    "index.html": "/Slider-using-React-NatutoPedia-/index.html",
+    "main.2c7c239a.css.map": "/Slider-using-React-NatutoPedia-/static/css/main.2c7c239a.css.map",
+    "main.cb1d023e.js.map": "/Slider-using-React-NatutoPedia-/static/js/main.cb1d023e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7c239a.css",
+    "static/js/main.cb1d023e.js"
+  ]
+}
